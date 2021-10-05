@@ -1,2 +1,3 @@
 # contacts
-UI/UX design + DB
+UI/UX design + DB using Entity Framework
+
